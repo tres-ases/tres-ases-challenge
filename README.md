@@ -46,6 +46,6 @@ Tendrás que desarrollar un proyecto en NodeJs que haga uso de la API de IMDB, y
 * *Tests*, claves para que futuros cambios al código no afecten las funcionalidades actuales.
 * *Performance*, siempre será importante que la solución sea eficiente en el uso de recursos y en tiempos de respuesta, o más bien, un equilibrio entre ambas.
 
-¡Éxito! ¡Esperamos tu respuesta!
+¡Éxito! ¡Esperamos tu postulación!
 
 

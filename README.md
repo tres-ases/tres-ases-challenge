@@ -18,9 +18,9 @@ Cuéntanos en términos no formales:
 
 Es un portal referente con toda (o casi toda) la información respecto a películas, series, programas de televisión, videojuegos y más. Nos acabamos de percatar de que hace más de 10 años fue adquirida por el gigante Amazon.
 
-Bueno, a lo que nos convoca. Lo otro interesante de IMDB es que tiene una [API pública](https://imdb-api.com/) que utilizaremos para este desafío, y para ello debeberás [registrarte](https://imdb-api.com/Identity/Account/Register) y obtener tu ApiKey.
+Lo otro interesante de IMDB es que tiene una [API pública](https://imdb-api.com/) que utilizaremos para este desafío, y para ello debeberás [registrarte](https://imdb-api.com/Identity/Account/Register) y obtener tu ApiKey.
 
-La [especificación de la API](https://imdb-api.com/swagger/index.html) está en formato OpenAPI 3, pero te recomendamos revisar la documentación que aparece cuando ingresas al [sitio de de la API pública](https://imdb-api.com/).
+Bueno, a lo que nos convoca. La [especificación de la API](https://imdb-api.com/swagger/index.html) está en formato OpenAPI 3, pero te recomendamos revisar la documentación que aparece cuando ingresas al [sitio de de la API pública](https://imdb-api.com/).
 
 ### El proyecto
 

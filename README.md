@@ -16,7 +16,7 @@ Cuéntanos en términos no formales:
 
 ¿De verdad no lo conoces? Deberías utilizarlo, es muy práctico para evaluar si vale la pena ver una película o serie. :wink:
 
-Es un portal referente con toda (o casi toda) la información respecto a películas, series, programas de televisión, videojuegos y más. Hace poco nos percatamos de que hace muchos años atrás fue adquirida por el gigante Amazon.
+Es un portal referente con toda (o casi toda) la información respecto a películas, series, programas de televisión, videojuegos y más. Nos acabamos de percatar de que hace más de 10 años fue adquirida por el gigante Amazon.
 
 Bueno, a lo que nos convoca. Lo otro interesante de IMDB es que tiene una [API pública](https://imdb-api.com/) que utilizaremos para este desafío, y para ello debeberás [registrarte](https://imdb-api.com/Identity/Account/Register) y obtener tu ApiKey.
 
@@ -28,13 +28,13 @@ Tendrás que desarrollar un proyecto en NodeJs que haga uso de la API de IMDB, y
 
 #### Producciones del Corazón
 
-1. Obtener los detalles de todas las películas y capítulos de series que contengan la palabra 'heart' en su título
+1. Obtener los detalles de todas las películas y capítulos de series que contengan la palabra `heart` en su título
 2. Obtener el listado de directores
 3. Calcular la duración total de todos los resultados
 
 #### Producciones de Desarrolladores
 
-1. Obtener los detalles de todas las películas y capítulos de series que contengan la palabra 'dev' en su título
+1. Obtener los detalles de todas las películas y capítulos de series que contengan la palabra `dev` en su título
 2. Obtener el listado de actores principales
 3. Calcular la duración total de todos los resultados
 

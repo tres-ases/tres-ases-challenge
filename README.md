@@ -16,9 +16,9 @@ Cuéntanos en términos no formales:
 
 ¿De verdad no lo conoces? Deberías utilizarlo, es muy práctico para evaluar si vale la pena ver una película o serie. :wink:
 
-Es un portal referente con toda (o casi toda) la información respecto a películas, series, programas de televisión, videojuegos y más. Nos acabamos de percatar de que hace más de 10 años fue adquirida por el gigante Amazon.
+Es un portal referente con toda (o casi toda) la información respecto a películas, series, programas de televisión, videojuegos y más. Nos percatamos de que hace más de 10 años fue adquirida por el gigante Amazon :scream:.
 
-Lo otro interesante de IMDB es que tiene una [API pública](https://imdb-api.com/) que utilizaremos para este desafío, y para ello debeberás [registrarte](https://imdb-api.com/Identity/Account/Register) y obtener tu ApiKey.
+Lo otro interesante de IMDB es que tiene una [API pública](https://imdb-api.com/) que es la que utilizaremos para este desafío, y para ello te debes [registrar](https://imdb-api.com/Identity/Account/Register) y obtener tu ApiKey.
 
 Bueno, a lo que nos convoca. La [especificación de la API](https://imdb-api.com/swagger/index.html) está en formato OpenAPI 3, pero te recomendamos revisar la documentación que aparece cuando ingresas al [sitio de de la API pública](https://imdb-api.com/).
 

@@ -40,11 +40,11 @@ Tendrás que desarrollar un proyecto en NodeJs que haga uso de la API de IMDB, y
 
 ### A tener en cuenta
 
-* *El código debe ser claro*, piensa que no siempre serás tú el que tenga que modificarlo.
-* *Organiza tu solución*, siempre es importante aplicar las prácticas necesarias para que, tanto el código como la lógica implementada, sigan una arquitectura bien definida.
-* *Estructura*, tal como lo has podido evidenciar en librerías que has usado previamente, es muy importante contar un `README.md`, organización de carpetas y archivos y uso de estándares.
-* *Tests*, claves para que futuros cambios al código no afecten las funcionalidades actuales.
-* *Performance*, siempre será importante que la solución sea eficiente en el uso de recursos y en tiempos de respuesta, o más bien, un equilibrio entre ambas.
+* **El código debe ser claro**, piensa que no siempre serás tú el que tenga que modificarlo.
+* **Organiza tu solución**, siempre es importante aplicar las prácticas necesarias para que, tanto el código como la lógica implementada, sigan una arquitectura bien definida.
+* **Estructura**, tal como lo has podido evidenciar en librerías que has usado previamente, es muy importante contar un `README.md`, organización de carpetas y archivos y uso de estándares.
+* **Tests**, claves para que futuros cambios al código no afecten las funcionalidades actuales.
+* **Performance**, siempre será importante que la solución sea eficiente en el uso de recursos y en tiempos de respuesta, o más bien, un equilibrio entre ambas.
 
 ¡Éxito! ¡Esperamos tu postulación!
 
